@@ -1,0 +1,31 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: mzaman30
+    Linux system name: mzaman30
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/mzaman30/ops445/lab7
+    Start at: Thu Jul 17 13:55:00 2025
+=================================================================
+
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7a.py
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7a1.py
+08:00:00 + 00:50:00 --> 08:50:00
+08:55:00 + 00:50:00 --> 09:45:00
+09:50:00 + 00:50:00 --> 10:40:00
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7b.py
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7c.py
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7c1.py
+08:00:00 + 00:50:00 --> 08:50:00
+08:55:00 + 00:50:00 --> 09:45:00
+09:50:00 + 1800 sec --> 10:20:00
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7d.py
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7e.py
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7f.py
+mzaman30@mzaman30:~/ops445/lab7$ python3 lab7i.py
+print() in main on schoolName: Seneca
+print() in function1 on schoolName: SICT
+print() in main on schoolName: SICT
+print() in function2 on schoolName: SSDO
+print() in main on schoolName: SSDO
